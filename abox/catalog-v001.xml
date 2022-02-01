@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
-    <uri id="Imports Wizard Entry" name="http://www.oais.ip/0.2" uri="file:/C:/Users/KrdzavacN/git/tib/sandbox/oais-ip-ontology-collection/tbox/oais-ip-tbox.owl"/>
-    <uri id="User Entered Import Resolution" name="http://www.oais.ip/0.2" uri="oais-ip-tbox.owl"/>
-    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1643722709136" name="http://www.semanticweb.org/krdzavacn/ontologies/2022/1/untitled-ontology-97" uri="green.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1643722709136" name="http://www.semanticweb.org/krdzavacn/ontologies/2022/1/untitled-ontology-99" uri="blue.owl"/>
-    </group>
-</catalog>
