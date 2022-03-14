@@ -22,7 +22,7 @@ Figure 1 show importing mechanism for OAIS IP ontology project. The **example-co
 - **example-2-aip.owl** that imports **oais-ip-tbox.owl**
 - **oais-ip-tbox.owl**
 
-## TIB Terminology Service Statistics use case
+## TIB Terminology Service Statistics and Library use case
 
 ![Firgure 2. OAIS IP ontology for TIB Terminology Service Statistics use base](images/oais-ip-tib-terminology-service-statistics.png)
 
